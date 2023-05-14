@@ -1,5 +1,4 @@
 const express = require("express");
-require("./config/dbcon");
 
 const PORT = 3001;
 const app = express();
