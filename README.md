@@ -1,6 +1,5 @@
 # HW_18-NoSQL-Social-Network-API
-[Demo video link](https://drive.google.com/file/d/13uEz4L6BGxSj86bB7RcMixYDhxab1Ovy/view)
-
+https://drive.google.com/file/d/1sbQi5GNPQFL4tkyFsGlOBmsh-hiTmkpe/view?usp=drivesdk
 #
 github repo link 
 (https://github.com/Sam15-code/Module-18-social-network-api.git)
